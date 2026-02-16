@@ -21,7 +21,9 @@ https://doi.org/10.9781/ijimai.2023.01.002
 
 ## Descripción
 
-Este proyecto implementa un modelo de detección de objetos basado en YOLOv4 para identificar piscinas en imágenes aéreas. El modelo está entrenado con un dataset personalizado de imágenes de 512x512 píxeles.
+Este repositorio contiene el dataset y la configuración del modelo YOLOv4 para evaluar el rendimiento del módulo de detección de piscinas. El sistema completo descrito en el artículo es una plataforma multiagente que integra este detector con otros componentes para la verificación legal de piscinas.
+
+El modelo está entrenado con imágenes aéreas de 512x512 píxeles.
 
 ## Estructura del Proyecto
 
