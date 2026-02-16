@@ -1,5 +1,7 @@
 # Swimming Pool Detection with YOLOv4
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18659199.svg)](https://doi.org/10.5281/zenodo.18659199)
+
 Dataset utilizado en el artículo científico:
 
 > **A Platform for Swimming Pool Detection and Legal Verification Using a Multi-Agent System and Remote Image Sensing**
